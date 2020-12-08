@@ -1,0 +1,7 @@
+! 自定义用户规则
+
+
+! Github
+*.github.com
+*.githubusercontent.com
+*.githubassets.com
