@@ -1,0 +1,22 @@
+name: Generate pac file
+
+on:
+  workflow_dispatch:
+
+jobs:
+  Generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+
+      - name: Setup generate tool
+        uses: BSFishy/pip-action@v1
+        with:
+          packages: genpac
+
+      - name: Run generate tool
+        run: genpac --config-from ./rules.txt
