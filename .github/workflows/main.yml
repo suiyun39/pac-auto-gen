@@ -1,6 +1,14 @@
 name: Generate pac file
 
 on:
+  schedule:
+    - cron: "0 0 * * 0"
+  push:
+    branches:
+      - "master"
+    paths:
+      - "rules.txt"
+      - "config.ini"
   workflow_dispatch:
 
 jobs:
@@ -19,4 +27,18 @@ jobs:
           packages: genpac
 
       - name: Run generate tool
-        run: genpac --config-from ./config.ini
+        run: genpac --config-from ./config.ini > pac.txt
+
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      - name: Commit and push
+        uses: EndBug/add-and-commit@v4
+        with:
+          message: ${{ steps.date.outputs.date }} update pac.txt
+          add: "pac.txt"
+          author_name: "NoDocCat"
+          author_email: "nodoccat@outlook.com"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
