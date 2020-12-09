@@ -19,4 +19,4 @@ jobs:
           packages: genpac
 
       - name: Run generate tool
-        run: genpac --config-from ./rules.txt
+        run: genpac --config-from ./config.ini
