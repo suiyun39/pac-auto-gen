@@ -36,7 +36,7 @@ jobs:
       - name: Commit and push
         uses: EndBug/add-and-commit@v4
         with:
-          message: ${{ steps.date.outputs.date }} update pac.txt
+          message: "chore: ${{ steps.date.outputs.date }} update pac.txt"
           add: "pac.txt"
           author_name: "NoDocCat"
           author_email: "nodoccat@outlook.com"
