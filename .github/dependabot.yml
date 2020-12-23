@@ -6,3 +6,7 @@ updates:
     rebase-strategy: "disabled"
     schedule:
       interval: "daily"
+    assignees:
+      - "NoDocCat"
+    reviewers:
+      - "NoDocCat"
