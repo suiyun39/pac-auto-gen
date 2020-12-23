@@ -34,11 +34,10 @@ jobs:
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: Commit and push
-        uses: EndBug/add-and-commit@v6.1.0
+        uses: EndBug/add-and-commit@v6
         with:
           message: "chore: ${{ steps.date.outputs.date }} update pac.txt"
           add: "pac.txt"
           author_name: "NoDocCat"
           author_email: "nodoccat@outlook.com"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}
