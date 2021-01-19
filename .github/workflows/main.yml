@@ -34,7 +34,7 @@ jobs:
         run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
 
       - name: Commit and push
-        uses: EndBug/add-and-commit@v6
+        uses: EndBug/add-and-commit@v7
         with:
           message: "chore: ${{ steps.date.outputs.date }} update pac.txt"
           add: "pac.txt"
