@@ -1,6 +1,5 @@
 ! 自定义用户规则
 
-
 ! Github
 *.github.com
 *.githubusercontent.com
@@ -13,3 +12,7 @@
 
 ! npm
 *.npmjs.com
+
+! Codacy
+*.codacy.com
+cdn.segment.com
