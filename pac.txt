@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-01-24 01:10:58
+ * Generated: 2021-01-26 15:19:38
  * GFWList Last-Modified: 2020-12-25 16:34:23
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -10,12 +10,14 @@ var rules = [
     [
         [],
         [
+            "codacy.com",
             "github.com",
             "github.io",
             "githubassets.com",
             "githubusercontent.com",
             "npmjs.com",
             "reactjs.org",
+            "segment.com",
             "unpkg.com"
         ]
     ],
