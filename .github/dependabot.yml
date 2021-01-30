@@ -5,7 +5,7 @@ updates:
     package-ecosystem: "github-actions"
     rebase-strategy: "disabled"
     schedule:
-      interval: "daily"
+      interval: "weekly"
     assignees:
       - "NoDocCat"
     reviewers:
