@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-05-02 00:09:45
- * GFWList Last-Modified: 2021-04-26 15:33:00
+ * Generated: 2021-05-09 00:43:11
+ * GFWList Last-Modified: 2021-05-03 01:08:10
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1535,6 +1535,7 @@ var rules = [
             "etokki.com",
             "etowns.net",
             "etowns.org",
+            "etsy.com",
             "ettoday.net",
             "etvonline.hk",
             "eu.org",
@@ -3228,6 +3229,7 @@ var rules = [
             "mefeedia.com",
             "meforum.org",
             "mefound.com",
+            "mega.co.nz",
             "mega.nz",
             "megaproxy.com",
             "megarotic.com",
@@ -3315,6 +3317,7 @@ var rules = [
             "mitbbs.com",
             "mitbbsau.com",
             "mixero.com",
+            "mixi.jp",
             "mixpod.com",
             "mixx.com",
             "mizzmona.com",
@@ -3542,6 +3545,7 @@ var rules = [
             "newspeak.cc",
             "newstamago.com",
             "newstapa.org",
+            "newstarnet.com",
             "newsweek.com",
             "newtaiwan.com.tw",
             "newtalk.tw",
