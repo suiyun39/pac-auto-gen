@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-05-23 00:55:58
- * GFWList Last-Modified: 2021-05-16 15:18:44
+ * Generated: 2021-05-30 01:41:56
+ * GFWList Last-Modified: 2021-05-25 16:04:13
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3231,6 +3231,7 @@ var rules = [
             "meforum.org",
             "mefound.com",
             "mega.co.nz",
+            "mega.io",
             "mega.nz",
             "megaproxy.com",
             "megarotic.com",
