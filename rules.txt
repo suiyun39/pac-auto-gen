@@ -1,18 +1,14 @@
-! 自定义用户规则
-
-! Github
 *.github.com
 *.githubusercontent.com
 *.githubassets.com
 *.github.io
 
-! React 官方文档
 *.reactjs.org
-*.unpkg.com
 
-! npm
+*.unpkg.com
 *.npmjs.com
 
-! Codacy
 *.codacy.com
-cdn.segment.com
+*.segment.com
+
+*.vuejs.org
