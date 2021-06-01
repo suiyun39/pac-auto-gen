@@ -5,7 +5,7 @@ on:
     - cron: "0 0 * * 0"
   push:
     branches: ["master"]
-    paths: ["rules.txt", "config.ini"]
+    paths: ["rules.txt"]
   workflow_dispatch:
 
 jobs:
@@ -24,7 +24,7 @@ jobs:
           packages: genpac
 
       - name: Run generate tool
-        run: genpac --config-from ./config.ini > pac.txt
+        run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > ./pac.txt
 
       - name: Get current date
         id: date
