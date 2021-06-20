@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-06-13 00:44:27
- * GFWList Last-Modified: 2021-05-30 14:14:33
+ * Generated: 2021-06-20 00:44:14
+ * GFWList Last-Modified: 2021-06-17 13:41:04
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3560,6 +3560,7 @@ var rules = [
             "newyorktimes.com",
             "nexon.com",
             "next11.co.jp",
+            "nextdigital.com.hk",
             "nextmag.com.tw",
             "nextmedia.com",
             "nexton-net.jp",
@@ -4987,7 +4988,9 @@ var rules = [
             "tora.to",
             "torcn.com",
             "torguard.net",
+            "torlock.com",
             "torproject.org",
+            "torrentkitty.tv",
             "torrentprivacy.com",
             "torrentproject.se",
             "torrenty.org",
