@@ -12,3 +12,5 @@
 *.segment.com
 
 *.vuejs.org
+
+*.jetbrains.com
