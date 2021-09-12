@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-09-05 00:47:01
- * GFWList Last-Modified: 2021-08-27 15:33:15
+ * Generated: 2021-09-12 00:47:02
+ * GFWList Last-Modified: 2021-09-07 14:20:05
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -467,6 +467,7 @@ var rules = [
             "asiansexdiary.com",
             "asianspiss.com",
             "asianwomensfilm.de",
+            "asiaone.com",
             "asiatgp.com",
             "asiatoday.us",
             "askstudent.com",
@@ -2422,6 +2423,7 @@ var rules = [
             "hexieshe.com",
             "hexieshe.xyz",
             "hexxeh.net",
+            "heyuedi.com",
             "heywire.com",
             "heyzo.com",
             "hgseav.com",
@@ -4802,6 +4804,7 @@ var rules = [
             "tenacy.com",
             "tensorflow.org",
             "tenzinpalmo.com",
+            "terabox.com",
             "tew.org",
             "textnow.me",
             "tfhub.dev",
