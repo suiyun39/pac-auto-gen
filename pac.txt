@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-09-19 00:45:31
- * GFWList Last-Modified: 2021-09-07 14:20:05
+ * Generated: 2021-09-26 00:47:41
+ * GFWList Last-Modified: 2021-09-19 21:45:53
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4379,6 +4379,7 @@ var rules = [
             "shadowsocks.org",
             "shadowsocks9.com",
             "shafaqna.com",
+            "shahit.biz",
             "shambalapost.com",
             "shambhalasun.com",
             "shangfang.org",
@@ -5027,6 +5028,7 @@ var rules = [
             "tpi.org.tw",
             "tracfone.com",
             "traffichaus.com",
+            "translate.goog",
             "translate.google",
             "transparency.org",
             "treemall.com.tw",
