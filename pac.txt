@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2021-09-26 00:47:41
- * GFWList Last-Modified: 2021-09-19 21:45:53
+ * Generated: 2021-10-03 00:51:07
+ * GFWList Last-Modified: 2021-09-27 12:26:24
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -3466,6 +3466,7 @@ var rules = [
             "mynumber.org",
             "myparagliding.com",
             "mypicture.info",
+            "mypikpak.com",
             "mypop3.net",
             "mypop3.org",
             "mypopescu.com",
