@@ -20,6 +20,8 @@ jobs:
 
       - name: Setup python
         uses: actions/setup-python@v2
+        with:
+          python-version: "3.9.7"
 
       - name: Setup generate tool
         uses: BSFishy/pip-action@v1
