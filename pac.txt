@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2022-01-23 00:48:42
- * GFWList Last-Modified: 2022-01-21 21:44:46
+ * Generated: 2022-01-30 00:49:44
+ * GFWList Last-Modified: 2022-01-29 02:25:08
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1218,12 +1218,11 @@ var rules = [
             "dalianmeng.org",
             "daliulian.org",
             "danke4china.net",
-            "danwei.org",
             "daolan.net",
-            "daozhongxing.org",
             "darktech.org",
             "darktoy.net",
             "darpa.mil",
+            "darrenliuwei.com",
             "dastrassi.org",
             "data-vocabulary.org",
             "data.gov.tw",
@@ -3393,6 +3392,7 @@ var rules = [
             "monlamit.org",
             "monster.com",
             "moodyz.com",
+            "moon.fm",
             "moonbbs.com",
             "moonbingo.com",
             "moptt.tw",
@@ -3985,6 +3985,7 @@ var rules = [
             "po2b.com",
             "pobieramy.top",
             "podbean.com",
+            "podcast.co",
             "podictionary.com",
             "pokerstars.com",
             "pokerstars.net",
@@ -4571,6 +4572,7 @@ var rules = [
             "sonidodelaesperanza.org",
             "sopcast.com",
             "sopcast.org",
+            "sophos.com",
             "sorazone.net",
             "sorting-algorithms.com",
             "sos.org",
