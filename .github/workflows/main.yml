@@ -1,4 +1,4 @@
-name: generate pac file
+name: generate-pac-file
 
 on:
   schedule:
