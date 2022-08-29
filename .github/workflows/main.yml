@@ -34,5 +34,3 @@ jobs:
         with:
           message: "chore: ${{ steps.time.outputs.formattedTime }} update pac.txt"
           add: pac.txt
-          author_name: NoDocCat
-          author_email: nodoccat@outlook.com
