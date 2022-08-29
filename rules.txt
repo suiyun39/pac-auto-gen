@@ -4,13 +4,8 @@
 *.github.io
 
 *.reactjs.org
-
+*.vuejs.org
 *.unpkg.com
 *.npmjs.com
-
-*.codacy.com
-*.segment.com
-
-*.vuejs.org
 
 *.jetbrains.com
