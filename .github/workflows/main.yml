@@ -25,7 +25,7 @@ jobs:
 
       - run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > ./pac.txt
 
-      - uses: josStorer/get-current-time@v2.0.1
+      - uses: josStorer/get-current-time@v2.0.2
         id: time
         with:
           format: yyyy-MM-DD
