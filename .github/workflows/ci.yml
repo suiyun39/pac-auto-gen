@@ -1,4 +1,4 @@
-name: generate-pac-file
+name: CI
 
 on:
   schedule:
@@ -11,7 +11,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  main:
     runs-on: ubuntu-20.04
     steps:
       - uses: actions/checkout@v3
