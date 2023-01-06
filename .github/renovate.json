@@ -7,5 +7,17 @@
     ":assignAndReview(NoDocCat)",
     ":labels(dependencies)"
   ],
-  "rebaseWhen": "never"
+  "rebaseWhen": "never",
+  "packageRules": [
+    {
+      "groupName": "{{manager}} dependencies",
+      "matchPackagePatterns": [
+        "*"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ]
+    }
+  ]
 }
