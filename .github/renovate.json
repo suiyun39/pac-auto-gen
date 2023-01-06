@@ -1,0 +1,23 @@
+{
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+  "extends": [
+    "config:base",
+    "schedule:weekends",
+    ":dependencyDashboardApproval",
+    ":assignAndReview(NoDocCat)",
+    ":labels(dependencies)"
+  ],
+  "rebaseWhen": "never",
+  "packageRules": [
+    {
+      "groupName": "{{manager}} dependencies",
+      "matchPackagePatterns": [
+        "*"
+      ],
+      "matchUpdateTypes": [
+        "minor",
+        "patch"
+      ]
+    }
+  ]
+}
