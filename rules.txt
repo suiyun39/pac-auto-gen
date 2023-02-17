@@ -9,3 +9,6 @@
 *.npmjs.com
 
 *.jetbrains.com
+
+*.pub.dev
+*.flutter.dev
