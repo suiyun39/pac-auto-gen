@@ -34,7 +34,7 @@ jobs:
       - uses: EndBug/add-and-commit@v9.1.1
         if: github.event_name != 'pull_request'
         with:
-          message: "chore: ${{ steps.time.outputs.formattedTime }} update pac.txt"
-          add: pac.txt
+          message: "chore: ${{ steps.time.outputs.formattedTime }} update list.pac"
+          add: list.pac
           author_name: "github-actions[bot]"
           author_email: "github-actions[bot]@users.noreply.github.com"
