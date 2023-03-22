@@ -16,7 +16,7 @@ jobs:
   main:
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v3.3.0
+      - uses: actions/checkout@v3.4.0
 
       - uses: actions/setup-python@v4.5.0
         with:
@@ -26,7 +26,7 @@ jobs:
       - run: pip install genpac
       - run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > ./pac.txt
 
-      - uses: josStorer/get-current-time@v2.0.2
+      - uses: josStorer/get-current-time@v2.1.1
         id: time
         with:
           format: yyyy-MM-DD
