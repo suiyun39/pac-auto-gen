@@ -12,3 +12,5 @@
 
 *.pub.dev
 *.flutter.dev
+
+*.freegpt.one
