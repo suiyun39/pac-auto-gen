@@ -4,7 +4,7 @@
     "config:base",
     "schedule:weekends",
     ":dependencyDashboardApproval",
-    ":assignAndReview(NoDocCat)",
+    ":assignee(NoDocCat)",
     ":labels(dependencies)"
   ],
   "rebaseWhen": "never",
