@@ -18,9 +18,9 @@ jobs:
   main:
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v4.1.1
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v5.0.0
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.9.7"
 
@@ -28,12 +28,12 @@ jobs:
       - run: pip install genpac
       - run: genpac --format pac --user-rule-from ./rules.txt --pac-proxy "SOCKS5 127.0.0.1:1080" > ./pac.txt
 
-      - uses: josStorer/get-current-time@v2.1.1
+      - uses: josStorer/get-current-time@v2
         id: time
         with:
           format: yyyy-MM-DD
 
-      - uses: EndBug/add-and-commit@v9.1.3
+      - uses: EndBug/add-and-commit@v9
         if: github.event_name != 'pull_request'
         with:
           message: "chore: ${{ steps.time.outputs.formattedTime }} update pac.txt"
