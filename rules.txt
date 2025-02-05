@@ -14,3 +14,4 @@
 *.flutter.dev
 
 *.freegpt.one
+*.appstorrent.ru
