@@ -1,6 +1,6 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-02-05 07:04:37
+ * Generated: 2025-02-05 07:07:56
  * GFWList Last-Modified: 2025-01-25 16:16:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
@@ -10,6 +10,7 @@ var rules = [
     [
         [],
         [
+            "appstorrent.ru",
             "flutter.dev",
             "freegpt.one",
             "github.com",
