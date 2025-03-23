@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-16 01:13:14
- * GFWList Last-Modified: 2025-03-14 09:50:30
+ * Generated: 2025-03-23 01:13:50
+ * GFWList Last-Modified: 2025-03-16 17:09:18
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -472,6 +472,7 @@ var rules = [
             "aofriend.com.au",
             "aojiao.org",
             "aolchannels.aol.com",
+            "aomedia.org",
             "aomiwang.com",
             "apartmentratings.com",
             "apartments.com",
@@ -4448,7 +4449,7 @@ var rules = [
             "powerphoto.org",
             "ppy.sh",
             "prayforchina.net",
-            "premeforwindows7.com",
+            "prcleader.org",
             "premproxy.com",
             "presentation.new",
             "presentationzen.com",
