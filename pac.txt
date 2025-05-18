@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-11 00:01:22
- * GFWList Last-Modified: 2025-05-10 11:14:27
+ * Generated: 2025-05-18 00:01:37
+ * GFWList Last-Modified: 2025-05-17 13:05:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -357,6 +357,7 @@ var rules = [
             "ai-kan.net",
             "ai-wen.net",
             "ai.binwang.me",
+            "ai.google",
             "aiosearch.com",
             "aiph.net",
             "airasia.com",
@@ -662,6 +663,7 @@ var rules = [
             "bbs.mikocon.com",
             "bbs.morbell.com",
             "bbs.mychat.to",
+            "bbs.naixi.net",
             "bbs.netbig.com",
             "bbs.nyinfor.com",
             "bbs.ozchinese.com",
@@ -3399,6 +3401,8 @@ var rules = [
             "lausan.hk",
             "lbank.info",
             "ld.hao123img.com",
+            "ldplayer.net",
+            "ldplayer.tw",
             "le-vpn.com",
             "leafyvpn.net",
             "lecloud.net",
@@ -4014,6 +4018,10 @@ var rules = [
             "nicovideo.jp",
             "nighost.org",
             "nightswatch.top",
+            "nikke-en.com",
+            "nikke-jp.com",
+            "nikke-kr.com",
+            "nikke.hotcool.tw",
             "nikkei.com",
             "ninecommentaries.com",
             "ninjacloak.com",
@@ -4047,6 +4055,7 @@ var rules = [
             "nordstromrack.com",
             "nordvpn.com",
             "nos.nl",
+            "notebooklm.google",
             "notepad-plus-plus.org",
             "nottinghampost.com",
             "novelasia.com",
@@ -4747,6 +4756,7 @@ var rules = [
             "safeguarddefenders.com",
             "safervpn.com",
             "safety.google",
+            "sagernet.org",
             "saintyculture.com",
             "saiq.me",
             "sakuralive.com",
@@ -5493,7 +5503,9 @@ var rules = [
             "ticket.com.tw",
             "tigervpn.com",
             "tiktok.com",
+            "tiktokcdn-eu.com",
             "tiktokcdn-us.com",
+            "tiktokcdn.com",
             "tiktokv.com",
             "tiktokv.us",
             "tiltbrush.com",
