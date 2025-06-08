@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-01 00:01:39
- * GFWList Last-Modified: 2025-05-31 00:49:37
+ * Generated: 2025-06-08 00:01:31
+ * GFWList Last-Modified: 2025-06-06 11:15:55
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -276,6 +276,7 @@ var rules = [
             "8z1.net",
             "9001700.com",
             "908taiwan.org",
+            "91dasai.com",
             "91porn.com",
             "91porny.com",
             "91vps.club",
@@ -1045,6 +1046,7 @@ var rules = [
             "cdjp.org",
             "cdn-images.mailchimp.com",
             "cdn-telegram.org",
+            "cdn.arstechnica.net",
             "cdn.assets.lfpcontent.com",
             "cdn.helixstudios.net",
             "cdn.jwplayer.com",
@@ -1205,6 +1207,7 @@ var rules = [
             "churchinhongkong.org",
             "chushigangdrug.ch",
             "ci-en.jp",
+            "cici.com",
             "ciciai.com",
             "cienen.com",
             "cineastentreff.de",
@@ -1297,6 +1300,7 @@ var rules = [
             "codeshare.io",
             "codeskulptor.org",
             "cofacts.tw",
+            "coffeemanga.to",
             "coin2co.in",
             "coinbase.com",
             "coinbene.com",
@@ -1377,6 +1381,7 @@ var rules = [
             "ct.org.tw",
             "ctao.org",
             "ctfriend.net",
+            "ctinews.com",
             "ctitv.com.tw",
             "ctowc.org",
             "cts.com.tw",
