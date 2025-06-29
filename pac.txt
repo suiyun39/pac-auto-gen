@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-22 00:01:29
- * GFWList Last-Modified: 2025-06-20 14:29:33
+ * Generated: 2025-06-29 00:01:39
+ * GFWList Last-Modified: 2025-06-28 11:01:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -62,6 +62,7 @@ var rules = [
             "hchcc.gov.tw",
             "hsinchu-cc.gov.tw",
             "http2.golang.org",
+            "i.pki.goog",
             "ime.baidu.jp",
             "iner.gov.tw",
             "ip.cn",
@@ -498,6 +499,7 @@ var rules = [
             "artofpeacefoundation.org",
             "artstation.com",
             "artsy.net",
+            "arvanstorage.ir",
             "asacp.org",
             "asdfg.jp",
             "asg.to",
@@ -1008,7 +1010,6 @@ var rules = [
             "chenshan20042005.wordpress.com",
             "cherrysave.com",
             "chhongbi.org",
-            "chicagoncmtv.com",
             "china-mmm.jp.net",
             "china-mmm.net",
             "china-review.com.ua",
@@ -1874,8 +1875,6 @@ var rules = [
             "freedominfonetweb.wordpress.com",
             "freedomsherald.org",
             "freeforums.org",
-            "freefq.com",
-            "freefuckvids.com",
             "freegao.com",
             "freehongkong.org",
             "freeilhamtohti.org",
@@ -2730,6 +2729,7 @@ var rules = [
             "imdb.com",
             "img.dlsite.jp",
             "img.ly",
+            "img.picgo.net",
             "imgasd.com",
             "imgchili.net",
             "imgmega.com",
@@ -2795,7 +2795,9 @@ var rules = [
             "iptv.com.tw",
             "iptvbin.com",
             "ipvanish.com",
+            "irangov.ir",
             "iredmail.org",
+            "irna.ir",
             "ironpython.net",
             "ironsocket.com",
             "is-a-hunter.com",
@@ -4030,6 +4032,7 @@ var rules = [
             "premproxy.com",
             "presentation.new",
             "presentationzen.com",
+            "president.ir",
             "presidentlee.tw",
             "prestige-av.com",
             "primevideo.com",
@@ -4140,6 +4143,7 @@ var rules = [
             "radioline.co",
             "radiovaticana.org",
             "radiovncr.com",
+            "radmin-vpn.com",
             "rael.org",
             "raggedbanner.com",
             "raidcall.com.tw",
