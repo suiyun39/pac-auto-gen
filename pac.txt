@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-10 00:01:42
- * GFWList Last-Modified: 2025-08-09 08:32:32
+ * Generated: 2025-08-17 00:01:32
+ * GFWList Last-Modified: 2025-08-16 07:55:26
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -657,6 +657,7 @@ var rules = [
             "bet365.com",
             "betaclouds.net",
             "betfair.com",
+            "betterhash.net",
             "betternet.co",
             "bettervpn.com",
             "bettween.com",
@@ -683,6 +684,7 @@ var rules = [
             "biliworld.com",
             "billypan.com",
             "binance.com",
+            "binance.org",
             "binancezh.cc",
             "binux.me",
             "bird.so",
@@ -2464,6 +2466,7 @@ var rules = [
             "heqinglian.net",
             "heritage.org",
             "herokuapp.com",
+            "herominers.com",
             "hexieshe.com",
             "hexieshe.xyz",
             "hexxeh.net",
@@ -2759,6 +2762,7 @@ var rules = [
             "indiemerch.com",
             "inews-api.tvb.com",
             "info-graf.fr",
+            "infura.io",
             "inherit.live",
             "initiativesforchina.org",
             "inkbunny.net",
@@ -2832,6 +2836,7 @@ var rules = [
             "itaiwan.gov.tw",
             "italiatibet.org",
             "itasoftware.com",
+            "itch.io",
             "itemdb.com",
             "itemfix.com",
             "ithelp.ithome.com.tw",
@@ -3183,6 +3188,7 @@ var rules = [
             "lsxszzg.com",
             "ltn.com.tw",
             "luckydesigner.space",
+            "luckymobile.ca",
             "ludepress.com",
             "luke54.com",
             "luke54.org",
@@ -3305,6 +3311,7 @@ var rules = [
             "messenger.com",
             "meta.com",
             "metafilter.com",
+            "metamask.io",
             "metart.com",
             "metarthunter.com",
             "meteorshowersonline.com",
@@ -3851,6 +3858,7 @@ var rules = [
             "paljorpublications.com",
             "paltalk.com",
             "panamapapers.sueddeutsche.de",
+            "pancakeswap.finance",
             "pandafan.pub",
             "pandapow.co",
             "pandapow.net",
@@ -3917,6 +3925,7 @@ var rules = [
             "perplexity.ai",
             "persecutionblog.com",
             "persiankitty.com",
+            "pewresearch.org",
             "phapluan.org",
             "phayul.com",
             "philborges.com",
@@ -4046,6 +4055,7 @@ var rules = [
             "prisoneralert.com",
             "pritunl.com",
             "privacybox.de",
+            "privacyguides.org",
             "private.com",
             "privateinternetaccess.com",
             "privatepaste.com",
@@ -4700,6 +4710,7 @@ var rules = [
             "surrenderat20.net",
             "svsfx.com",
             "swagbucks.com",
+            "swapspace.co",
             "swissinfo.ch",
             "swissvpn.net",
             "switch1.jp",
