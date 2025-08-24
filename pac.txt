@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-17 00:01:32
- * GFWList Last-Modified: 2025-08-16 07:55:26
+ * Generated: 2025-08-24 00:01:01
+ * GFWList Last-Modified: 2025-08-23 08:36:20
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -111,7 +111,6 @@ var rules = [
             "static.soup.io",
             "static.typepad.com",
             "stdtime.gov.tw",
-            "storage.googleapis.com",
             "store.sprite.org",
             "sunmoonlake.gov.tw",
             "taitung-house.gov.tw",
@@ -1220,6 +1219,7 @@ var rules = [
             "cotweet.com",
             "counter.social",
             "coursehero.com",
+            "covenantswatch.org.tw",
             "coze.com",
             "cpj.org",
             "cpu-monkey.com",
@@ -1359,6 +1359,7 @@ var rules = [
             "demo.unlock-music.dev",
             "democrats.org",
             "demosisto.hk",
+            "deno.dev",
             "depositphotos.com",
             "desc.se",
             "desipro.de",
@@ -1427,6 +1428,7 @@ var rules = [
             "doc.new",
             "docker.com",
             "docker.io",
+            "docs.deno.com",
             "docs.new",
             "doctorvoice.org",
             "documentingreality.com",
@@ -1938,6 +1940,8 @@ var rules = [
             "ftx.com",
             "fucd.com",
             "fuchsia.dev",
+            "fuckccp.com",
+            "fuckccp.xyz",
             "fuckgfw.org",
             "fulione.com",
             "fullerconsideration.com",
@@ -1949,6 +1953,7 @@ var rules = [
             "furbo.org",
             "furhhdl.org",
             "furinkan.com",
+            "furrybar.com",
             "futurechinaforum.org",
             "futuremessage.org",
             "fux.com",
@@ -2840,6 +2845,7 @@ var rules = [
             "itemdb.com",
             "itemfix.com",
             "ithelp.ithome.com.tw",
+            "itiger.com",
             "itsaol.com",
             "itshidden.com",
             "itsky.it",
@@ -3534,6 +3540,7 @@ var rules = [
             "nationsonline.org",
             "nationwide.com",
             "naughtyamerica.com",
+            "naver.com",
             "navyfamily.navy.mil",
             "navyreserve.navy.mil",
             "naweeklytimes.com",
@@ -5240,6 +5247,7 @@ var rules = [
             "udn.com",
             "udn.com.tw",
             "udnbkk.com",
+            "udomain.hk",
             "uforadio.com.tw",
             "ufreevpn.com",
             "ugo.com",
