@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-21 00:00:58
- * GFWList Last-Modified: 2025-09-19 14:43:25
+ * Generated: 2025-09-28 00:01:05
+ * GFWList Last-Modified: 2025-09-25 03:27:54
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -285,6 +285,7 @@ var rules = [
             "abitno.linpie.com",
             "ablwang.com",
             "aboluowang.com",
+            "about.gitlab.com",
             "about.me",
             "abplive.com",
             "abs.edu",
@@ -449,6 +450,7 @@ var rules = [
             "api-secure.recaptcha.net",
             "api-verify.recaptcha.net",
             "api.ai",
+            "api.palworldgame.com",
             "api.pureapk.com",
             "api.recaptcha.net",
             "api.steampowered.com",
@@ -1254,6 +1256,7 @@ var rules = [
             "csw.org.uk",
             "ct.org.tw",
             "ctao.org",
+            "ctinets.com",
             "ctinews.com",
             "ctitv.com.tw",
             "ctowc.org",
@@ -2068,7 +2071,6 @@ var rules = [
             "githubassets.com",
             "githubcopilot.com",
             "githubusercontent.com",
-            "gitlab.com",
             "gitlab.net",
             "gizlen.net",
             "gjczz.com",
@@ -2791,6 +2793,7 @@ var rules = [
             "internetdefenseleague.org",
             "internetfreedom.org",
             "internetpopculture.com",
+            "interseclab.org",
             "inthenameofconfuciusmovie.com",
             "investigating.wordpress.com",
             "invidio.us",
@@ -3756,6 +3759,7 @@ var rules = [
             "ocreampies.com",
             "ocry.com",
             "october-review.org",
+            "octocaptcha.com",
             "oculus.com",
             "oculuscdn.com",
             "odysee.com",
@@ -5255,7 +5259,6 @@ var rules = [
             "uberproxy.net",
             "uc-japan.org",
             "uchicago.edu",
-            "uderzo.it",
             "udn.com",
             "udn.com.tw",
             "udnbkk.com",
@@ -5626,6 +5629,7 @@ var rules = [
             "wikimapia.org",
             "wikimedia.org",
             "wikinews.org",
+            "wikipedia.com",
             "wikipedia.org",
             "wikisource.org",
             "wikiversity.org",
