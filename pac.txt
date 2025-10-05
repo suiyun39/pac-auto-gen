@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-28 00:01:05
- * GFWList Last-Modified: 2025-09-25 03:27:54
+ * Generated: 2025-10-05 00:00:59
+ * GFWList Last-Modified: 2025-10-04 13:07:36
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -264,6 +264,7 @@ var rules = [
             "91vps.club",
             "92ccav.com",
             "991.com",
+            "996.icu",
             "99btgc01.com",
             "99cn.info",
             "9bis.com",
@@ -4791,8 +4792,10 @@ var rules = [
             "tangren.us",
             "tanks.gg",
             "taoism.net",
+            "tap.io",
             "tapanwap.com",
             "tapatalk.com",
+            "taptap.io",
             "tardigrade.io",
             "tarr.uspto.gov",
             "taup.net",
