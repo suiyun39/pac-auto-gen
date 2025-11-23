@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-16 00:01:05
- * GFWList Last-Modified: 2025-11-14 13:31:14
+ * Generated: 2025-11-23 00:01:06
+ * GFWList Last-Modified: 2025-11-22 11:41:21
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -312,6 +312,7 @@ var rules = [
             "addons.mozilla.org",
             "addyoutube.com",
             "adelaidebbs.com",
+            "adguard-vpn.com",
             "admin.recaptcha.net",
             "admob.com",
             "adpl.org.hk",
@@ -336,6 +337,7 @@ var rules = [
             "agoogleaday.com",
             "agro.hk",
             "ai.binwang.me",
+            "ai.dev",
             "aiosearch.com",
             "aiph.net",
             "airasia.com",
@@ -1147,6 +1149,7 @@ var rules = [
             "cloud.mail.ru",
             "cloudflare-dns.com",
             "cloudflare-ipfs.com",
+            "cloudflarestatus.com",
             "cloudfunctions.net",
             "club1069.com",
             "clubhouseapi.com",
@@ -2400,6 +2403,7 @@ var rules = [
             "greasyfork.org",
             "greatfire.org",
             "greatfire.us7.list-manage.com",
+            "greatfirevpn.com",
             "greatfirewall.biz",
             "greatfirewallofchina.org",
             "greatroc.org",
@@ -2468,6 +2472,7 @@ var rules = [
             "have8.com",
             "hbg.com",
             "hbo.com",
+            "hbomax.com",
             "hclips.com",
             "hd.stheadline.com",
             "hdtvb.net",
@@ -3139,6 +3144,7 @@ var rules = [
             "liberal.org.hk",
             "libertysculpturepark.com",
             "libertytimes.com.tw",
+            "library-access.sk",
             "library.usc.cuhk.edu.hk",
             "libredd.it",
             "lifemiles.com",
@@ -3235,7 +3241,6 @@ var rules = [
             "lyfhk.net",
             "lzjscript.com",
             "lzmtnews.org",
-            "m-team.cc",
             "m.hkgalden.com",
             "m.me",
             "m.moegirl.org",
@@ -3364,6 +3369,7 @@ var rules = [
             "middle-way.net",
             "mihr.com",
             "mihua.org",
+            "mij.rip",
             "mikanani.me",
             "mike.cz.cc",
             "mikesoltys.com",
@@ -3408,7 +3414,9 @@ var rules = [
             "mixpod.com",
             "mixx.com",
             "mizzmona.com",
+            "mji.rip",
             "mjib.gov.tw",
+            "mjj.rip",
             "mjlsh.usc.cuhk.edu.hk",
             "mlc.ai",
             "mlcool.com",
@@ -3555,6 +3563,7 @@ var rules = [
             "nalandawest.org",
             "namgyal.org",
             "namgyalmonastery.org",
+            "namu.wiki",
             "nanopool.org",
             "nanyang.com",
             "nanyangpost.com",
@@ -3979,6 +3988,7 @@ var rules = [
             "picacomiccn.com",
             "picasaweb.com",
             "picidae.net",
+            "picsart.com",
             "picturedip.com",
             "picturesocial.com",
             "picuki.com",
@@ -4321,6 +4331,7 @@ var rules = [
             "rumble.com",
             "runbtx.com",
             "rushbee.com",
+            "rustdesk.com",
             "rusvpn.com",
             "ruten.com.tw",
             "rutracker.net",
@@ -5661,6 +5672,7 @@ var rules = [
             "wikipedia.com",
             "wikipedia.org",
             "wikisource.org",
+            "wikiunblocked.org",
             "wikiversity.org",
             "wikivoyage.org",
             "wikiwand.com",
@@ -5827,6 +5839,7 @@ var rules = [
             "xmovies.com",
             "xn--11xs86f.icu",
             "xn--4gq171p.com",
+            "xn--9iqy04a7fi01l.com",
             "xn--9pr62r24a.com",
             "xn--czq75pvv1aj5c.org",
             "xn--i2ru8q2qg.com",
