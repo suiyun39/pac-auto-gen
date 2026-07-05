@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-06-28 00:19:14
- * GFWList Last-Modified: 2026-06-27 13:02:45
+ * Generated: 2026-07-05 00:18:01
+ * GFWList Last-Modified: 2026-07-02 11:24:32
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -1163,6 +1163,7 @@ var rules = [
             "expecthim.com",
             "expekt.com",
             "exploader.net",
+            "expressnews.com",
             "expressvpn.com",
             "exrates.me",
             "extmatrix.com",
@@ -4008,6 +4009,7 @@ var rules = [
             "webpkgcache.com",
             "webrtc.org",
             "websdr.org",
+            "webshare.io",
             "website.new",
             "webwarper.net",
             "wechatlawsuit.com",
