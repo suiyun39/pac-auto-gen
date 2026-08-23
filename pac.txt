@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-16 00:27:52
- * GFWList Last-Modified: 2026-08-10 15:55:25
+ * Generated: 2026-08-23 00:28:47
+ * GFWList Last-Modified: 2026-08-22 06:17:41
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -562,6 +562,7 @@ var rules = [
             "breakgfw.com",
             "breakingtweets.com",
             "breakwall.net",
+            "briarproject.org",
             "brill.com",
             "brizzly.com",
             "broadpressinc.com",
@@ -704,6 +705,7 @@ var rules = [
             "chat.com",
             "chat.lmsys.org",
             "chatgpt.com",
+            "chatgpt.site",
             "chatpdf.com",
             "chaturbate.com",
             "checkgfw.com",
@@ -1859,6 +1861,7 @@ var rules = [
             "himemix.com",
             "hindustantimes.com",
             "hinet.net",
+            "historylines.net",
             "hitbtc.com",
             "hitomi.la",
             "hive.blog",
@@ -2201,6 +2204,7 @@ var rules = [
             "kinmen.travel",
             "kinokuniya.com",
             "kiwi.kz",
+            "kiwix.org",
             "kk-whys.co.jp",
             "kkbox.com",
             "kknews.cc",
@@ -2308,6 +2312,7 @@ var rules = [
             "livemint.com",
             "livestream.com",
             "livevideo.com",
+            "livingatlas.arcgis.com",
             "livingstream.com",
             "lmarena.ai",
             "localbitcoins.com",
@@ -2395,6 +2400,7 @@ var rules = [
             "maven.neoforged.net",
             "mcadforums.com",
             "mcaf.ee",
+            "mceindex.com",
             "mcusercontent.com",
             "md-t.org",
             "me.me",
@@ -2723,6 +2729,7 @@ var rules = [
             "okpool.me",
             "okx.com",
             "old.honeynet.org",
+            "oldmapsonline.org",
             "olehdtv.com",
             "olelive.com",
             "olevod.com",
@@ -3142,6 +3149,7 @@ var rules = [
             "s-cute.com",
             "s.yimg.com",
             "s3-ap-northeast-1.amazonaws.com",
+            "s3.dualstack.us-west-2.amazonaws.com",
             "sacks.com",
             "sacom.hk",
             "sadistic-v.com",
@@ -3161,6 +3169,7 @@ var rules = [
             "savetibet.org",
             "savetibetstore.org",
             "saveuighur.org",
+            "sb.sb",
             "sbme.me",
             "sbti.unun.dev",
             "schema.org",
@@ -4086,6 +4095,7 @@ var rules = [
             "willw.net",
             "wilsoncenter.org",
             "windscribe.com",
+            "windy.com",
             "wingamestore.com",
             "wingy.site",
             "wionews.com",
