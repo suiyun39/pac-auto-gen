@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2026-09-20 01:49:38
- * GFWList Last-Modified: 2026-09-11 14:54:15
+ * Generated: 2026-09-27 02:00:29
+ * GFWList Last-Modified: 2026-09-26 12:29:53
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -609,6 +609,7 @@ var rules = [
             "c-est-simple.com",
             "c-span.org",
             "c-spanvideo.org",
+            "c.go-mpulse.net",
             "c.mi.com",
             "c2cx.com",
             "c3pool.com",
@@ -753,6 +754,7 @@ var rules = [
             "chinesegay.org",
             "chinesen.de",
             "chinesenews.net.au",
+            "chineseposters.net",
             "chineseradioseattle.com",
             "chineseupress.com",
             "chingcheong.com",
@@ -2670,6 +2672,7 @@ var rules = [
             "nordstromrack.com",
             "nordvpn.com",
             "nos.nl",
+            "note.com",
             "notepad-plus-plus.org",
             "nottinghampost.com",
             "now.com",
@@ -3015,6 +3018,7 @@ var rules = [
             "qianmo.tw",
             "qiwen.lu",
             "qmp4.com",
+            "qobuz.com",
             "qoos.com",
             "qq.co.za",
             "qstatus.com",
@@ -3892,6 +3896,7 @@ var rules = [
             "vansky.com",
             "vaticannews.va",
             "vatn.org",
+            "vava8.com",
             "vcf-online.org",
             "vcfbuilder.org",
             "veed.io",
